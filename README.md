@@ -16,27 +16,29 @@ The objective is to showcase **real-world SQL skills** by handling messy data, e
 
 ---
 
-## 🗂️ Project Structure
-Laptop-Data-Analysis-SQL/
+## 📁 Project Structure
 
-├─ README.md
+```text
+end-to-end-sql-laptop-data-analysis/
+│
+├── README.md
 │
 ├── data/
-│ └── laptops_raw.csv
+│   ├── laptops_raw.csv
+│   └── laptops_cleaned.csv
 │
 ├── sql/
-│ ├── data_cleaning.sql
-│ └── exploratory_data_analysis.sql
+│   ├── data_cleaning.sql
+│   └── exploratory_data_analysis.sql
 │
 ├── results/
-│ ├── key_insights.md
-│ └── business_recommendations.md
+│   ├── key_insights.md
+│   └── business_recommendations.md
 │
 └── assets/
-└── images/
-├── workflow_diagram.png
-└── eda_logic_flow.png
-
+    └── images/
+        ├── workflow_diagram.png
+        └── eda_logic_flow.png
 
 ---
 

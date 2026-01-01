@@ -39,7 +39,7 @@ end-to-end-sql-laptop-data-analysis/
     └── images/
         ├── workflow_diagram.png
         └── eda_logic_flow.png
-
+```
 ---
 
 ## 📊 Dataset Information

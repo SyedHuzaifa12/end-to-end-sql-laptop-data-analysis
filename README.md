@@ -38,7 +38,7 @@ end-to-end-sql-laptop-data-analysis/
 └── assets/
     └── images/
         ├── workflow_diagram.png
-        └── eda_logic_flow.png ```
+        └── eda_logic_flow.png
 
 ---
 

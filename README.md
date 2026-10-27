@@ -1,5 +1,5 @@
 # End-to-End SQL Data Cleaning & Exploratory Data Analysis
-
+ 
 ## 📌 Project Overview
 This project demonstrates an **end-to-end SQL workflow** involving data cleaning, transformation, and exploratory data analysis (EDA) on an **uncleaned laptop dataset sourced from Kaggle**.
 
